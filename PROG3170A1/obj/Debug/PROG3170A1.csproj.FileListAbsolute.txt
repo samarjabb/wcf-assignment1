@@ -1,0 +1,7 @@
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\bin\Debug\PROG3170A1.exe.config
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\bin\Debug\PROG3170A1.exe
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\bin\Debug\PROG3170A1.pdb
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\obj\Debug\PROG3170A1.csproj.AssemblyReference.cache
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\obj\Debug\PROG3170A1.csproj.CoreCompileInputs.cache
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\obj\Debug\PROG3170A1.exe
+C:\Users\Samar\Desktop\Level5\PROG3170\wcf-assignment1\PROG3170A1\obj\Debug\PROG3170A1.pdb
